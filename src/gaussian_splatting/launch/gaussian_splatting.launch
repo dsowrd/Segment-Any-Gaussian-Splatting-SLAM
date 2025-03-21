@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="gaussian_splatting" type="gaussian_splatting.py" name="gaussian_splatting" output="screen"/>
+</launch>
